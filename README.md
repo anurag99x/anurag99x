@@ -3,7 +3,7 @@
 
 - 🔭 My project 1 [Lenskart clone](https://github.com/anurag99x/lenskart-project.git)
 
-- My project 2 [Netmeds clone](https://github.com/anurag99x/Netmeds.git)
+- 🔭 My project 2 [Netmeds clone](https://github.com/anurag99x/Netmeds.git)
 
 - 🔭 My project 3 [Tic Tac Toe](https://github.com/anurag99x/tic-tac-toe-react.git)
 
