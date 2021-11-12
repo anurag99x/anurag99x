@@ -3,9 +3,11 @@
 
 - 🔭 My project 1 [Lenskart clone](https://github.com/anurag99x/lenskart-project.git)
 
-- 🌱 I’m currently learning **React,Redux**
+- My project 2 [Netmeds clone](https://github.com/anurag99x/Netmeds.git)
 
-- 🔭 My project 2 [Netmeds clone](https://github.com/anurag99x/Netmeds.git)
+- 🔭 My project 3 [Tic Tac Toe](https://github.com/anurag99x/tic-tac-toe-react.git)
+
+- 🌱 I’m currently learning **React,Redux**
 
 - 👨‍💻 All of my projects are available at [https://anuportfolio.herokuapp.com/](https://anuportfolio.herokuapp.com/)
 
