@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React,Redux**
 
-- 👨‍💻 All of my projects are available at [https://anuportfolio.herokuapp.com/](https://anuportfolio.herokuapp.com/)
+- 👨‍💻 All of my projects are available at [https://dreamy-ardinghelli-82efa5.netlify.app/](https://dreamy-ardinghelli-82efa5.netlify.app/)
 
 - 📫 How to reach me **anuragxpandey@gmail.com**
 
